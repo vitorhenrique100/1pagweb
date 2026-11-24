@@ -1,0 +1,13 @@
+/* Reset CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo corpo da página */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    color: yellow;
+}
